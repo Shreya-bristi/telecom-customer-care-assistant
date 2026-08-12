@@ -1,5 +1,10 @@
 """
-Centralized config for RAG pipeline
+Centralized config for the RAG pipeline.
+
+Single source of truth for paths, model names, chunking/retrieval
+parameters, and guardrail thresholds used across ingestion, retrieval,
+and the chain modules. Values are plain constants, overridable via
+environment variables where noted (LLM_MODEL, LANGCHAIN_PROJECT).
 """
 
 import os

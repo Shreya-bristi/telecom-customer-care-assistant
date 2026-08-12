@@ -173,9 +173,9 @@ cp .env.example .env
 ### Environment Variables
 
 ```env
-GROQ_API_KEY=gsk_...
+GROQ_API_KEY=...
 LANGCHAIN_TRACING_V2=true
-LANGCHAIN_API_KEY=lsv2_pt_...
+LANGCHAIN_API_KEY=...
 LANGCHAIN_PROJECT=telecom-customer-care
 ```
 
@@ -269,4 +269,4 @@ With `LANGCHAIN_TRACING_V2=true`, every chain invocation is traced end-to-end:
 
 ## License
 
-This project is for educational and portfolio purposes.
+This project is for educational purposes.

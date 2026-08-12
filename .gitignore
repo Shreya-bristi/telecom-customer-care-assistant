@@ -10,8 +10,6 @@ build/
 .venv/
 venv/
 
-# Chroma vector store (rebuild with ingestion)
-chroma_store/
 
 # IDE
 .vscode/

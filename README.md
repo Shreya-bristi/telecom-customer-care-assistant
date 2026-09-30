@@ -4,7 +4,6 @@ A production-ready **RAG (Retrieval-Augmented Generation)** chatbot that helps c
 
 Built with **LangChain**, evaluated with **LangSmith**, and deployed on **Streamlit Cloud**.
 
-🔗 **Live Demo:** [telecom-customercare-assistant.streamlit.app](https://telecom-customercare-assistant.streamlit.app/)
 
 ![Telecom Customer Care Assistant](assets/chatbot_screenshot.png)
 
